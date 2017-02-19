@@ -1,8 +1,9 @@
-JavaScript Videos
-=================
+Youtube Theater
+===============
 
-An app to play videos.
+A more refined and clutter-free interface to search and watch youtube videos. This app built 
+in React makes use of the youtube api to create a theatrical UI for displaying youtube content.
 
 Technologies Used
 ----------
-JavaScript, React, Redux, HTML, CSS
+JavaScript, React, HTML, CSS

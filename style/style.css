@@ -5,6 +5,9 @@
   font-family: 'Roboto', sans-serif;
 }
 
+/***************************
+          Header
+***************************/
 #header-text {
   line-height: 0.8;
   color: #B10F2E;
@@ -16,6 +19,9 @@
     color: #F7FFEF;
 }
 
+/***************************
+        Search Bar
+***************************/
 .search-bar {
   padding-top: 20px;
   margin-bottom: 15px;
@@ -29,6 +35,9 @@
   border-radius: 1px;
 }
 
+/***************************
+         Video List
+***************************/
 .video-list {
   background-color: #201927;  
   border: 1px solid #F7FFEF;
@@ -48,14 +57,6 @@
   font-weight: bold;
 }
 
-.video-detail .details {
-  margin-top: 15px;
-  padding: 10px;
-  border: 1px solid #F7FFEF;
-  border-radius: 1px;
-  background-color: #201927;
-}
-
 .list-group-item {
   cursor: pointer;
   background-color: #201927 !important;
@@ -64,3 +65,16 @@
 .list-group-item:hover {
   background-color: #eee;
 }
+
+/***************************
+        Video Details
+***************************/
+.video-detail .details {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid #F7FFEF;
+  border-radius: 1px;
+  background-color: #201927;
+}
+
+

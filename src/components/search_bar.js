@@ -9,9 +9,9 @@ class SearchBar extends Component {
   render() {
     return (
       <div className="search-bar">
-        <h1 id="header-text">Youtube Theatre 
-        <br/>
-        <small id="sub-text">A better way to watch Youtube videos</small>
+        <h1 id="header-text">Youtube Theater 
+          <br/>
+          <small id="sub-text">A better way to watch Youtube videos</small>
         </h1>
         <input
           placeholder=" Search for videos"
