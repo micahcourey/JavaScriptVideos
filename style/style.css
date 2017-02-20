@@ -60,6 +60,7 @@
 .list-group-item {
   cursor: pointer;
   background-color: #201927 !important;
+  padding: 10px !important;
 }
 
 .list-group-item:hover {
